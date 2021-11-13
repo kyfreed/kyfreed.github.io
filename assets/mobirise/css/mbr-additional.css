@@ -1158,6 +1158,27 @@ a {
   width: 100%;
   object-fit: cover;
 }
+.cid-sOBWJeVfb0 {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  background-color: #ffffff;
+}
+@media (max-width: 991px) {
+  .cid-sOBWJeVfb0 .image-wrapper {
+    margin-bottom: 1rem;
+  }
+}
+.cid-sOBWJeVfb0 .row {
+  flex-direction: row-reverse;
+}
+.cid-sOBWJeVfb0 img {
+  width: 100%;
+}
+@media (min-width: 992px) {
+  .cid-sOBWJeVfb0 .text-wrapper {
+    padding: 2rem;
+  }
+}
 .cid-sOuRojAcL4 {
   padding-top: 5rem;
   padding-bottom: 5rem;
